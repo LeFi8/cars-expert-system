@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "cars-expert-system"
+version = "0.1.0"
+description = "Uni project for expert systems course"
+authors = ["Alan"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
